@@ -1,0 +1,4 @@
+pydantic>=2.9,<3.0
+python-dotenv>=1.0.1
+label-studio-sdk>=1.0.5
+weave>=0.51
